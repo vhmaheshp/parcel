@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "@parcel/plugin": "2.9.3",
-    "pug": "^3.0.2"
+    "pug": "^3.0.3"
   }
 }
