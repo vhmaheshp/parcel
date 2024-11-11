@@ -23,7 +23,7 @@
     "@parcel/diagnostic": "2.9.3",
     "@parcel/plugin": "2.9.3",
     "command-exists": "^1.2.8",
-    "cross-spawn": "^7.0.3",
+    "cross-spawn": "^7.0.5",
     "elm-hot": "^1.1.5",
     "node-elm-compiler": "^5.0.5",
     "nullthrows": "^1.1.1",
