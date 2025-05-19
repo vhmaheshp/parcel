@@ -40,7 +40,7 @@
     "@parcel/utils": "2.9.3",
     "@parcel/workers": "2.9.3",
     "abortcontroller-polyfill": "^1.1.9",
-    "base-x": "^3.0.8",
+    "base-x": "^3.0.11",
     "browserslist": "^4.6.6",
     "clone": "^2.1.1",
     "dotenv": "^7.0.0",
